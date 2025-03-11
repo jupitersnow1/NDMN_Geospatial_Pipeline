@@ -10,7 +10,6 @@ st.write(
    "This project has been made possible with guidance from our mentors at the USDA Forest Service."
 )
 
-
 # Step 1: Data Upload
 st.header("Step 1: Upload Raw Data")
 raw_data = st.file_uploader("Upload your dataset", type=["csv", "xlsx"])
