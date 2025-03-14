@@ -1,1 +1,8 @@
+# core dependencies
 streamlit
+pandas
+
+# geospatial libaries
+geopandas
+folium
+streamlit-folium
